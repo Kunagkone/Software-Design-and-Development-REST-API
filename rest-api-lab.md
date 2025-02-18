@@ -435,6 +435,7 @@ npm run dev
   
     ### บันทึกผลการทดลอง
   ![แทรกรูปผลการลบข้อมูล](path/to/your/image.png)
+![image](https://github.com/user-attachments/assets/38db1724-2ebc-4ea5-8339-dd17820fa90e)
 
   ### หยุดการทำงานของ API Server โดยกดปุ่ม Ctrl + c
 
