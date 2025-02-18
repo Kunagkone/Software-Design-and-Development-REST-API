@@ -425,7 +425,8 @@ npm run dev
    - แก้ไขข้อมูลบางส่วนใน JSON
 
   ### บันทึกผลการทดลอง
-  ![แทรกรูปผลการแก้ไขข้อมูล](path/to/your/image.png)
+  ![แทรกรูปผลการแก้ไขข้อมูล](path![image](https://github.com/user-attachments/assets/0e63e9a2-735a-43bd-ab45-febbe0b7791f)
+/to/your/image.png)
 
    d) Delete Booking:
    - สร้าง Request ใหม่ชื่อ "Delete Booking"
